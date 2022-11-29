@@ -1,0 +1,204 @@
+[
+    {
+        "id": "1",
+        "categoria":"Recetas en proteina",
+        "recetas":[{
+            "title": "Carne guisada",
+        "calorias": "100c",
+        "puntuacion":"5",
+        "descripcion":"Receta deliciosa con guiso de verduras",
+        "pasos":"1.Dejar la carne hirviendo por 45 minutos  a fuego lento, 2.Sazonarla con sal y pimienta, 3.Preparar un guiso y servir con arroz",
+        "img":"https://saposyprincesas.elmundo.es/wp-content/uploads/2020/05/recetas-bajas-en-grasa-con-verdura.jpg"
+        },
+        {
+            "title": "Carne con papas",
+        "calorias": "250c",
+        "puntuacion":"3.5",
+        "descripcion":"Receta deliciosa de carne  con papas al gusto ",
+        "pasos":"1.Partir la carne en trozos grandes, 2. Freir las papas en aceite. 3.Sevir junto a frijoles o semillas",
+        "img":"https://www.recetassalvador.com/base/stock/Recipe/187-image/187-image_web.jpg"
+        },
+        {
+            "title": "Carne con arroz",
+        "calorias": "324c",
+        "puntuacion":"5",
+        "descripcion":"Carne y arroz el mejor suplemento que  puede haber ente ambos",
+        "pasos":"1.Cocinar la carne en una cacerola, 2.Dejar el arroz cociendo en abudnante agua, 3.Servir juntos y con 20 gramos de sal",
+        "img":"https://placeralplato.com/files/2016/04/Carne-con-arroz-640x480.jpg?width=1200&enable=upscale"
+        }
+    ]       
+    },
+    {
+        "id": "2",
+    "categoria":"Recetas en vitaminas",
+    "recetas":[{
+        "title": "Ensalada Cesar",
+    "calorias": "100c",
+    "puntuacion":"4",
+    "descripcion":"Ensalada con pollo",
+    "pasos":"1.Poner el pollo a la plancha, 2.Cortar la ensalada con tomates y pepinos. 3. Servir junto a su aderezo favorito",
+    "img":"https://www.recetasderechupete.com/wp-content/uploads/2020/10/Ensalada-Cesar-final_.jpg"
+    },
+    {
+        "title": "Omelet con salchicha",
+    "calorias": "300c",
+    "puntuacion":"5",
+    "descripcion":"Tortilla de huevo con enmbutido",
+    "pasos":"1.Revolver 5 huevos en un tazon. 2.Con la yema, mezclar con harina y sal. 3. Freir las salchichas y servir juntos",
+    "img":"https://t2.rg.ltmcdn.com/es/posts/1/8/8/omelette_de_salchichas_32881_orig.jpg"
+    },
+    {
+        "title": "Sopa de pescado ",
+    "calorias": "210c",
+    "puntuacion":"3",
+    "descripcion":"Sopa de pescado con crema justamente balanceada",
+    "pasos":"1.Pelar el pescado y limpiar con jengibre. 2.Servir una gran cantidad de caldo con crema. 3. Freir por 20 minutos y servir con limon",
+    "img":"https://i.blogs.es/243242/sopa-pescado2/840_560.jpg"
+    }
+]
+},
+{
+    "id": "3",
+"categoria":"Recetas en grasas",
+"recetas":[{
+    "title": "Tocino",
+"calorias": "800c",
+"puntuacion":"4",
+"descripcion":"Pellejo de cerdo caramelizado",
+"pasos":"1.Poner el tocino sin aceite, 2.Prender la cacerola y poner un poco de caramelo. 3.Traer un poco de barbacoa y servir",
+"img":"https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2018/10/como-caramelizar-tocino-receta.jpg"
+},
+{
+    "title": "Hamburguesa tradicional",
+"calorias": "600c",
+"puntuacion":"5",
+"descripcion":"Receta deliciosa de hamburguesa con papas",
+"pasos":"1.Preparar el pan, 2. Dejar las papas friendo por 30 minutos, 3.Cocinar la carne molida, 4. Cortar la ensalada, cebolla y tomate. 5.Servir todo junto y disfrutar",
+"img":"https://progcarne.com/storage/app/uploads/public/60f/9b1/e8e/60f9b1e8e5dc2774215154.jpg"
+},
+{
+    "title": "Pizza de peperoni",
+"calorias": "590c",
+"puntuacion":"5",
+"descripcion":"Receta deliciosa con guiso de verduras",
+"pasos":"1.Preparar la masa, 2.Calentar queso mozarella, 3.Meter al horno por 30 minutos con el peperoni, 4.Disfrutar",
+"img":"https://placeralplato.com/files/2016/01/Pizza-con-pepperoni-640x480.jpg?width=1200&enable=upscale"
+}
+]
+},
+{
+    "id": "4",
+"categoria":"Recetas veganas",
+"recetas":[{
+    "title": "Ensalada vegana",
+"calorias": "100c",
+"puntuacion":"3",
+"descripcion":"Ensalada a base de verduras y sazones",
+"pasos":"1.Cortar los tomates y pepinos en trozos chicos, 2.Sacar una lata de elotes y garbanzo, 3.Mezclar y sasonar con aceite de olvia y pimienta",
+"img":"https://t1.rg.ltmcdn.com/es/posts/8/9/0/ensalada_de_garbanzos_vegana_59098_600_square.jpg"
+},
+{
+    "title": "Pure de papas",
+"calorias": "200c",
+"puntuacion":"5",
+"descripcion":"Receta deliciosa con papas",
+"pasos":"1.Sacar 6 papas y pelarlas, 2.Molerlas con una cuchara hasta que ya no queden grumos, 3.untarle un poco de crema al gusto. 4.Ponerle cebollas o cilantro",
+"img":"https://images.aws.nestle.recipes/original/892d65cba81876ed7c340ae9ce7663d3_DCS_MARZO_INSTAGRAM-04.jpg"
+},
+{
+    "title": "Papa con zanahoria",
+"calorias": "200c",
+"puntuacion":"3",
+"descripcion":"Papas y zanahorias unidas con huevo",
+"pasos":"1.Pelar las papas y zanahorias, 2.hervir un huevo revuelto, 3. Juntar y revolver entre todo",
+"img":"https://i.pinimg.com/736x/9f/5d/e8/9f5de802df86d8b967ee2b0681b50b66.jpg"
+}
+]
+},
+{
+    "id": "5",
+    "categoria":"Recetas Faciles",
+    "recetas":[{
+        "title": "Pollo a las brasas",
+    "calorias": "400c",
+    "puntuacion":"5",
+    "descripcion":"Receta deliciosa con guiso de verduras",
+    "pasos":"1.Preaparar el menos 3 carbone y una cebolla, 2.Prender el carbon y poner el pollo previamente sacionado, 3.Dorar al gusto",
+    "img":"https://i.blogs.es/76a6e1/pollo-a-la-brasa-pakus-futurobloguero/1366_2000.jpg"
+    },
+    {
+        "title": "Cereal con leche",
+    "calorias": "100c",
+    "puntuacion":"5",
+    "descripcion":"Delicioso Cereal con leche",
+    "pasos":"1.Poner el tocino si aceite, 2.Prender la cacerola",
+    "img":"https://www.recetassalvador.com/base/stock/Recipe/187-image/187-image_web.jpg"
+    },
+    {
+        "title": "Sopa Maggi ",
+    "calorias": "200c",
+    "puntuacion":"1",
+    "descripcion":"Sopa instantanea de exquisito sabor",
+    "pasos":"1.Cocinar la carne en una cacerola, 2.Dejar el arroz cociendo en abudnante agua, 3.Servir juntos y con 20 gramos de sal",
+    "img":"https://placeralplato.com/files/2016/04/Carne-con-arroz-640x480.jpg?width=1200&enable=upscale"
+    }
+]       
+},
+{
+    "id": "6",
+    "categoria":"Recetas Salvadoreñas",
+    "recetas":[{
+        "title": "Atol shuco",
+    "calorias": "200c",
+    "puntuacion":"4",
+    "descripcion":"Atol de frijoles y maiz con chile",
+    "pasos":"1.Cocer los frifoles, 2.Mezclar con maiz, 3.Echar chile al gusto",
+    "img":"https://saposyprincesas.elmundo.es/wp-content/uploads/2020/05/recetas-bajas-en-grasa-con-verdura.jpg"
+    },
+    {
+        "title": "Pupusas",
+    "calorias": "200c",
+    "puntuacion":"5",
+    "descripcion":"Comida salvadorena de arroz y maiz",
+    "pasos":"1.Moldear la masa, 2.Untar frijol y queso, 3.Freir en una plancha con suficeinte aceite a fuego lento",
+    "img":"https://www.recetassalvador.com/base/stock/Recipe/187-image/187-image_web.jpg"
+    },
+    {
+        "title": "Pan con pollo ",
+    "calorias": "300c",
+    "puntuacion":"5",
+    "descripcion":"Pan tipico con pollo y salsa deliciosa",
+    "pasos":"1.Abrir los panes, 2.Untar con mayonesa. 3.Despellejar el pollo",
+    "img":"https://placeralplato.com/files/2016/04/Carne-con-arroz-640x480.jpg?width=1200&enable=upscale"
+    }
+]       
+},
+{
+    "id": "7",
+    "categoria":"Postres",
+    "recetas":[{
+        "title": "Tres Leches",
+    "calorias": "300c",
+    "puntuacion":"5",
+    "descripcion":"Exquisito pastel de tres leches",
+    "pasos":"1.Poner 5 huevos en la cacerola, 2.Dos tazas de harina, 3. Tres litros de leche, 4.Una libra de azucar",
+    "img":"https://saposyprincesas.elmundo.es/wp-content/uploads/2020/05/recetas-bajas-en-grasa-con-verdura.jpg"
+    },
+    {
+        "title": "Pastel de Zanahoria",
+    "calorias": "200c",
+    "puntuacion":"5",
+    "descripcion":"Receta deliciosa con papas",
+    "pasos":"1.Poner el tocino si aceite, 2.Prender la cacerola",
+    "img":"https://www.recetassalvador.com/base/stock/Recipe/187-image/187-image_web.jpg"
+    },
+    {
+        "title": "Cheesecake Douglas",
+    "calorias": "300c",
+    "puntuacion":"5",
+    "descripcion":"Receta deliciosa con guiso de verduras",
+    "img":"https://placeralplato.com/files/2016/04/Carne-con-arroz-640x480.jpg?width=1200&enable=upscale"
+    }
+]       
+}
+]
